@@ -7,7 +7,7 @@ const weekDays = {
 	Sa: "Суббота",
 	Su: "Воскресенье",
 };
-let trRo = {
+const trRo = {
 	"Понедельник": "Luni",
 	"Вторник": "Marti",
 	"Среда": "Miercuri",
