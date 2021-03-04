@@ -30,17 +30,8 @@ for (let i in array) {
     console.log(color);
 }*/
 //////3.1f for each////
-/*const amounts = [65, 44, 12, 4];
-let doubledAmounts = [];
+/*const array = [1, 5, 2, 13, 4];
+array.forEach (element => console.log(element));*/
 
-amounts.forEach(item => {
-  doubledAmounts.push(item * 2);
-})
 
-console.log(doubledAmounts);*/
-////3.1g map////
-/*const numbers = [1,2,3,4,5];
-const doubled = numbers.map(n => n * 2);
-
-console.log(doubled);*/
 
