@@ -6,7 +6,7 @@ let app = new Vue({
         operator: null,
     },
     computed: {
-        calculate() {
+        answer() {
             return eval(this.first + this.operator + this.second);
         }
     }
